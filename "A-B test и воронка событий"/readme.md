@@ -1,3 +1,3 @@
-Проект "Анализ A/A/B теста и воронки событий"
-Используемые библиотеки: pandas, numpy, matplotlib.pyplot, pandas.plotting, math, scipy, plotly.express
+Проект "Анализ A/A/B теста и воронки событий" <br>
+Используемые библиотеки: pandas, numpy, matplotlib.pyplot, pandas.plotting, math, scipy, plotly.express <br>
 В ходе работы данные были актуализированы, составлен порядок воронки событий, исследована конверсия переходов и результаты A/A/В тестирования
